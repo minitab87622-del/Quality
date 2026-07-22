@@ -34,7 +34,7 @@ android.permissions = WRITE_EXTERNAL_STORAGE, READ_EXTERNAL_STORAGE
 android.api = 33
 
 # (int) Minimum API supported
-android.minapi = 21
+android.minapi = 24
 
 # (bool) Accept SDK license
 android.accept_sdk_license = True
