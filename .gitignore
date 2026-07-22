@@ -1,0 +1,16 @@
+# Python temporary files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Generated Chart image
+qc_chart.png
+
+# Buildozer output and build dirs
+.buildozer/
+bin/
+
+# IDE files
+.idea/
+.vscode/
